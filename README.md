@@ -1,4 +1,4 @@
-# 利用Github Actions自动签到百度贴吧
+# 利用Github Actions自动签到百度贴吧1
 
 1. Fork此仓库
 2. 在Settings-Secrets添加一个名为'BDUSS'的变量
